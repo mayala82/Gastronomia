@@ -1,0 +1,45 @@
+body {
+  background: url(../img/food_1920.jpg);
+  color: white;
+  margin-top: 30px;
+}
+.fondo {
+  background: rgba(35, 130, 220, 0.5);
+  border-radius: 5px;
+}
+.fondo_boton {
+  background: rgba(35, 130, 220, 0.5);
+}
+.borde {
+  border-left-color: white;
+}
+.galeria_master{
+    margin-left: 0px !important;
+}
+.galeria{
+    margin-top: 5px;
+}
+.galeria_img{
+    height: 150px;
+    width: 80px;
+    margin-left: 8px;
+}
+h4, h6, label{
+    color: darkcyan;
+}
+.avatar{
+    width: 70%;
+}
+.comentario{
+    margin-top: 20px !important;
+    margin-right: 5px !important;
+    border: 1px solid;
+    border-color: darkcyan;
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+.contenedor{
+    margin-top: 30px;
+    margin-left: 0px !important;
+}
